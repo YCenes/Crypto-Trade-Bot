@@ -1,4 +1,4 @@
-def detect_swing_points(df, lookback=2):
+def detect_swing_points(df, lookback=3):
     swing_highs = []
     swing_lows = []
 
